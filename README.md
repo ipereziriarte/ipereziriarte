@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipereziriarte" alt="ipereziriarte" /></a> </p>
 
-- 🌱 I’m currently learning **ComposeUI**
+- 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **Android and Agile**
+- 💬 Ask me about **Android and Engineering Management**
 
 - 📫 How to reach me **imanol.perez.iriarte@gmail.com**
 
@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/ipereziriarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="ipereziriarte" height="32" width="32" /></a>
 <a href="https://stackoverflow.com/users/1444943" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" alt="1444943" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/imanol" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" alt="imanol" height="30" width="100" /></a>
-<a href="https://discord.gg/8377" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="#8377" height="32" width="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
