@@ -1,4 +1,3 @@
-## Imanol Perez Iriarte | @ipereziriarte
 
 <h1 align="center">Hi 👋, I'm Imanol Perez Iriarte</h1>
 <h3 align="center">A product savvy Engineering Manager</h3>
