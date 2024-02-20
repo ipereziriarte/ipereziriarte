@@ -3,8 +3,8 @@
 <h3 align="center">A product savvy Engineering Manager</h3>
 
 - 🌱 I’m currently learning **Astro**
-
-- 💬 Ask me about **Android and Engineering Management**
+- :purple_heart: Ruby on Rails
+- 💬 Ask me about **Engineering Management Android and Kotlin**
 - 📫 **imanol.perez.iriarte@gmail.com**
 
 
