@@ -1,17 +1,18 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Imanol%20Perez%20Iriarte&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Imanol%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Digital+Products+Builder;Engineering+Manager+%E2%86%92+CTO;Passionate+about+Flutter+%26+Mobile;Building+great+teams+%26+great+software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=CTO+%26+Engineering+Leader;Scaling+Engineering+Organizations;Gaming+%26+Casino+Tech+Platform+Architect;AI-Driven+Development+Advocate;Startup+Builder+%26+Seed+Investor" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ipereziriarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ipereziriarte)
+[![X](https://img.shields.io/badge/X-@ipereziriarte-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ipereziriarte)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-1444943-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1444943)
 [![Email](https://img.shields.io/badge/Email-imanol.perez.iriarte%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanol.perez.iriarte@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanolpereziriarte/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipereziriarte)
 
 </div>
 
@@ -19,22 +20,31 @@
 
 ## About Me
 
-```yaml
-name: Imanol Perez Iriarte
-role: CTO & Engineering Leader
-location: Spain
-passion: Building digital products that people love
+**CTO & Engineering Leader** based in Málaga, Spain.
 
-journey:
-  - Software Engineer
-  - Engineering Manager
-  - CTO
+I build and scale engineering organizations. Currently leading backend, frontend, DevOps, QA, and data teams at [Valsea Technology](https://valsea.com) in the gaming & casino tech space — managing platform architecture, regulatory compliance (MGA, EHMA), and multi-brand operations across Malta and Estonia.
 
-current_focus:
-  learning: Warp
-  love: Flutter & Dart
-  leading: Engineering teams & product strategy
-```
+---
+
+## What I Do
+
+- 🏗️ Architect and scale engineering orgs (35+ engineers, 40+ microservices)
+- 🎰 Deep domain expertise in gaming platforms, payment processing & regulatory compliance
+- 🤖 Driving AI adoption across engineering — from Copilot and Claude Code to custom ML pipelines
+- 📊 Data-driven engineering: DORA metrics, incident reduction OKRs, delivery optimization
+- 🚀 Startup builder — previously scaled mobile engineering at **letgo** and led Android at **Cabify**
+
+---
+
+## Career Highlights
+
+| Role | Company | Highlights |
+|:---|:---|:---|
+| **CTO** | [Valsea Technology](https://valsea.com) | Gaming & casino platform consultancy |
+| **Mobile Engineering Manager** | [letgo](https://letgo.com) | Managed mobile engineers across multiple squads, scaled from early stage |
+| **Lead Android Engineer** | [Cabify](https://cabify.com) | Built rider & driver apps, reported to CEO/CTO |
+| **Co-founder** | PARABOLA & Odontojobs | Startup builder |
+| **Seed Investor** | Booh Food | Angel investing |
 
 ---
 
@@ -42,23 +52,27 @@ current_focus:
 
 <div align="center">
 
-### Languages & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+### Platform & Infrastructure
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS/Redshift-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Tools & Platforms
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### Languages & Frameworks
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 </div>
+
+---
+
+## Currently Exploring
+
+🌱 AI-assisted development workflows · Platform engineering · Svelte
 
 ---
 
@@ -75,26 +89,9 @@ current_focus:
 
 ---
 
-## What I Bring to the Table
-
 <div align="center">
 
-| Leadership | Product | Engineering |
-|:---:|:---:|:---:|
-| Team Building | Product Strategy | Mobile Development |
-| Mentoring | User-Centric Design | Cross-Platform Apps |
-| Agile Practices | Roadmap Planning | CI/CD Pipelines |
-| Hiring & Growth | Stakeholder Mgmt | Architecture Design |
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect!
-
-💬 **Ask me about Engineering Management, Flutter, or building great product teams.**
+💬 **Ask me about scaling engineering teams, gaming platforms, or AI-assisted development.**
 
 <br/>
 
