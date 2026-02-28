@@ -22,7 +22,7 @@
 
 **CTO & Engineering Leader** based in Málaga, Spain.
 
-I build and scale engineering organizations. Currently leading backend, frontend, DevOps, QA, and data teams at [Valsea Technology](https://valsea.com) in the gaming & casino tech space — managing platform architecture, regulatory compliance (MGA, EHMA), and multi-brand operations across Malta and Estonia.
+I build and scale engineering organizations. Currently leading backend, frontend, DevOps, QA, and data teams at [Valsea Technology](https://valsea.com) in the gaming & casino tech space — managing platform architecture, regulatory compliance, and multi-brand operations across multiple jurisdictions.
 
 ---
 
@@ -41,9 +41,10 @@ I build and scale engineering organizations. Currently leading backend, frontend
 | Role | Company | Highlights |
 |:---|:---|:---|
 | **CTO** | [Valsea Technology](https://valsea.com) | Gaming & casino platform consultancy |
-| **Mobile Engineering Manager** | [letgo](https://letgo.com) | Managed mobile engineers across multiple squads, scaled from early stage |
-| **Lead Android Engineer** | [Cabify](https://cabify.com) | Built rider & driver apps, reported to CEO/CTO |
-| **Co-founder** | PARABOLA & Odontojobs | Startup builder |
+| **Mobile Engineering Manager** | [letgo](https://letgo.com) | Managed mobile engineers across multiple squads, scaled from early stage to unicorn exit|
+| **Lead Android Engineer** | [Cabify](https://cabify.com) | Built rider & driver apps, reported to CEO/CTO, scaled from dozens of daily trips to hundreds of thousands |
+| **Co-founder** | PARABOLA, Odontojobs, Tecnolex | Startup builder |
+| **European Youth Award** | Govfaces | Geneva |
 | **Seed Investor** | Booh Food | Angel investing |
 
 ---
