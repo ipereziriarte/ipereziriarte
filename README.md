@@ -73,7 +73,7 @@ I build and scale engineering organizations. Currently leading backend, frontend
 
 ## Currently Exploring
 
-🌱 AI-assisted development workflows · Platform engineering · Svelte
+🌱 AI-assisted development workflows · Platform engineering · Rust
 
 ---
 
